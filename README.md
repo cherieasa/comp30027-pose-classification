@@ -1,5 +1,5 @@
 # comp30027-pose-classification
-COMP30027 Machine Learning Project 1 (2021 Semester 1). Using a Supervised Naives Bayes Learner to classify poses from key points corresponding to 11 main parts of the body in (x,y) points. With a analysis report.
+Using a Supervised Naives Bayes Learner to classify poses from key points corresponding to 11 main parts of the body in (x,y) points. With a analysis report.
 
 There are 4 main functions or steps.
 
